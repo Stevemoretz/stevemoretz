@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**Stevemoretz/stevemoretz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fun Fact
 
-Here are some ideas to get you started:
+I don't use github for any of my serious projects, I use gitlab and its private repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks
+
+- Creator of a WordPress Framework + all its libraries + a CLI for it written in NodeJS
+- Creator of a React-Native Framework + all its libraries + a CLI for it written in NodeJS
+
+### Libraries
+
+Each of my frameworks contain 10+ libraries which I have created myself, most of these are private here are a few (mostly fork) ones that are not
+
+- https://github.com/Stevemoretz/async-react-php
+- https://github.com/Stevemoretz/reconnecting-websocket
+
+The rest of my libraries contain
+
+- a Really cool library with drivers (plugins) support for Laravel built for sending any kind of data from server -> client. eg : SMS, Email, Websocket, Push Notification.
+- Multilingual Features, styling and a lot of ready-to-use components for React Native
+- Opcache CLI support
+
+and many more.
