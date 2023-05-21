@@ -4,7 +4,8 @@
 
 ### Hi 👋
 
-- [![Portfolio & Resume Website]([https://example.com/image.jpg](https://media.licdn.com/dms/image/sync/D4E27AQHVbv9HhPIUVg/articleshare-shrink_800/0/1684434304479?e=1685264400&v=beta&t=vmGaMz3uvG0AXieAwRxWcjtBPxz01LcGwsn0CB3z664))](https://stevemoretz.github.io/)
+- [![Portfolio & Resume Website](https://media.licdn.com/dms/image/sync/D4E27AQHVbv9HhPIUVg/articleshare-shrink_800/0/1684434304479?e=1685264400&v=beta&t=vmGaMz3uvG0AXieAwRxWcjtBPxz01LcGwsn0CB3z664)](https://stevemoretz.github.io/)
+
 - [Video Portfolio & Resume](https://www.youtube.com/watch?v=5lgHLIvFzHo)
 
 Contact Info:
