@@ -4,6 +4,9 @@
 
 ### Hi 👋
 
+- [Portfolio & Resume Website](https://stevemoretz.github.io/)
+- [Video Portfolio & Resume](https://www.youtube.com/watch?v=5lgHLIvFzHo)
+
 ### Fun Fact
 
 I don't use github for any of my serious projects, I use gitlab and its private repositories.
