@@ -13,7 +13,7 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://www.youtube.com/watch?v=5lgHLIvFzHo">
+        <a href="https://www.youtube.com/watch?v=eGmFrYUMJv4">
           <img src="https://media.licdn.com/dms/image/sync/D4E27AQHVbv9HhPIUVg/articleshare-shrink_800/0/1684434304479?e=1685264400&v=beta&t=vmGaMz3uvG0AXieAwRxWcjtBPxz01LcGwsn0CB3z664" alt="Video Portfolio & Resume" height="100">
         </a>
       </p>
