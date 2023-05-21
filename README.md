@@ -13,17 +13,16 @@ I don't use github for any of my serious projects, I use gitlab and its private 
 - Creator of a WordPress Framework + all its libraries + a CLI for it written in NodeJS
 - Creator of a React-Native Framework + all its libraries + a CLI for it written in NodeJS
 
-### Libraries
+Contact Info:
+📧 Email: [sm.steve.moretz@gmail.com](mailto://sm.steve.moretz@gmail.com)
+🔗 [LinkedIn](linkedin.com/in/stevemoretz)
+📱 [WhatsApp](wa.me/989021308988?text=Hi)
+💬 [Telegram](t.me/stevemoretz)
 
-Each of my frameworks contain 10+ libraries which I have created myself, most of these are private here are a few (mostly fork) ones that are not
+👨‍💻 With several years of experience in software development and DevOps, I have developed a wide range of skills and expertise in creating frameworks and command-line tools. I have experience working with a variety of programming languages and web development technologies, including React, Laravel, and Unity.
 
-- https://github.com/Stevemoretz/async-react-php
-- https://github.com/Stevemoretz/reconnecting-websocket
+🌟 I take pride in my ability to create innovative solutions to complex problems, as well as my strong communication and interpersonal skills. I have experience working both independently and as part of a team, and enjoy collaborating with others to achieve shared goals.
 
-The rest of my libraries contain
+💻 In terms of achievements, I am particularly proud of the two frameworks I created, Central and React-A-Lot, which have been used in a variety of projects across multiple industries. Additionally, I have experience working on game development projects using Unity, including creating an Angry Birds clone for mobile devices.
 
-- a Really cool library with drivers (plugins) support for Laravel built for sending any kind of data from server -> client. eg : SMS, Email, Websocket, Push Notification.
-- Multilingual Features, styling and a lot of ready-to-use components for React Native
-- Opcache CLI support
-
-and many more.
+🚀 Looking to the future, I am eager to continue expanding my skillset and taking on new challenges. Whether it's creating innovative software solutions or collaborating with others to achieve shared goals, I am excited to see where my career in software development and DevOps takes me next.
