@@ -7,20 +7,20 @@
 - [Portfolio & Resume Website](https://stevemoretz.github.io/)
 - [Video Portfolio & Resume](https://www.youtube.com/watch?v=5lgHLIvFzHo)
 
-### Fun Fact
-
-I don't use github for any of my serious projects, I use gitlab and its private repositories.
-
-### Frameworks
-
-- Creator of a WordPress Framework + all its libraries + a CLI for it written in NodeJS
-- Creator of a React-Native Framework + all its libraries + a CLI for it written in NodeJS
-
 Contact Info:
 - 📧 Email: [sm.steve.moretz@gmail.com](mailto:sm.steve.moretz@gmail.com?subject=Hello)
 - 🔗 [LinkedIn](linkedin.com/in/stevemoretz)
 - 📱 [WhatsApp](wa.me/989021308988?text=Hi)
 - 💬 [Telegram](t.me/stevemoretz)
+
+### Fun Fact
+
+I don't use github for any of my serious projects, I use gitlab and its private repositories.
+
+### Best Projects
+
+- Creator of a WordPress Framework + all its libraries + a CLI for it written in NodeJS
+- Creator of a React-Native Framework + all its libraries + a CLI for it written in NodeJS
 
 👨‍💻 With several years of experience in software development and DevOps, I have developed a wide range of skills and expertise in creating frameworks and command-line tools. I have experience working with a variety of programming languages and web development technologies, including React, Laravel, and Unity.
 
