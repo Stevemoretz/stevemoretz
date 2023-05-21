@@ -4,7 +4,7 @@
 
 ### Hi 👋
 
-<table align="center">
+<table>
   <tr>
     <td>
       <p align="center">
