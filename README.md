@@ -22,6 +22,8 @@ I don't use github for any of my serious projects, I use gitlab and its private 
 - Creator of a WordPress Framework + all its libraries + a CLI for it written in NodeJS
 - Creator of a React-Native Framework + all its libraries + a CLI for it written in NodeJS
 
+### Description
+
 👨‍💻 With several years of experience in software development and DevOps, I have developed a wide range of skills and expertise in creating frameworks and command-line tools. I have experience working with a variety of programming languages and web development technologies, including React, Laravel, and Unity.
 
 🌟 I take pride in my ability to create innovative solutions to complex problems, as well as my strong communication and interpersonal skills. I have experience working both independently and as part of a team, and enjoy collaborating with others to achieve shared goals.
