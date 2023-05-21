@@ -1,7 +1,4 @@
 
-
-![alt text](https://64.media.tumblr.com/tumblr_lr2m4lYdhY1qlr140o1_500.gifv)
-
 ### Hi 👋
 
 <table>
@@ -49,3 +46,5 @@ I don't use github for any of my serious projects, I use gitlab and its private 
 💻 In terms of achievements, I am particularly proud of the two frameworks I created, Central and React-A-Lot, which have been used in a variety of projects across multiple industries. Additionally, I have experience working on game development projects using Unity, including creating an Angry Birds clone for mobile devices.
 
 🚀 Looking to the future, I am eager to continue expanding my skillset and taking on new challenges. Whether it's creating innovative software solutions or collaborating with others to achieve shared goals, I am excited to see where my career in software development and DevOps takes me next.
+
+![alt text](https://64.media.tumblr.com/tumblr_lr2m4lYdhY1qlr140o1_500.gifv)
