@@ -24,9 +24,9 @@
 
 Contact Info:
 - 📧 Email: [sm.steve.moretz@gmail.com](mailto:sm.steve.moretz@gmail.com?subject=Hello)
-- 🔗 [LinkedIn](linkedin.com/in/stevemoretz)
-- 📱 [WhatsApp](wa.me/989021308988?text=Hi)
-- 💬 [Telegram](t.me/stevemoretz)
+- 🔗 [LinkedIn](https://linkedin.com/in/stevemoretz)
+- 📱 [WhatsApp](https://wa.me/989021308988?text=Hi)
+- 💬 [Telegram](https://t.me/stevemoretz)
 
 ### Fun Fact
 
