@@ -14,10 +14,10 @@ I don't use github for any of my serious projects, I use gitlab and its private 
 - Creator of a React-Native Framework + all its libraries + a CLI for it written in NodeJS
 
 Contact Info:
-📧 Email: [sm.steve.moretz@gmail.com](mailto://sm.steve.moretz@gmail.com)
-🔗 [LinkedIn](linkedin.com/in/stevemoretz)
-📱 [WhatsApp](wa.me/989021308988?text=Hi)
-💬 [Telegram](t.me/stevemoretz)
+- 📧 Email: [sm.steve.moretz@gmail.com](mailto:sm.steve.moretz@gmail.com?subject=Hello)
+- 🔗 [LinkedIn](linkedin.com/in/stevemoretz)
+- 📱 [WhatsApp](wa.me/989021308988?text=Hi)
+- 💬 [Telegram](t.me/stevemoretz)
 
 👨‍💻 With several years of experience in software development and DevOps, I have developed a wide range of skills and expertise in creating frameworks and command-line tools. I have experience working with a variety of programming languages and web development technologies, including React, Laravel, and Unity.
 
