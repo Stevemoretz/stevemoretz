@@ -6,7 +6,7 @@
     <td>
       <p align="center">
         <a href="https://stevemoretz.github.io/">
-          <img src="https://media.licdn.com/dms/image/D4E2DAQHs1I8zvL6mGg/profile-treasury-image-shrink_8192_8192/0/1684434770312?e=1685264400&v=beta&t=bd2OIhvZg3jw_7P3LpqBi0AS7QF1CsDaN7DoQrrvKdE" alt="Portfolio & Resume Website" height="100">
+          <img src="https://media.licdn.com/dms/image/D4E2DAQHs1I8zvL6mGg/profile-treasury-image-shrink_8192_8192/0/1684434770312?e=1686438000&v=beta&t=ngLaTv9sxmox-SH7vrGnXl-WOKC89qbknLP-GqoCuzU" alt="Portfolio & Resume Website" height="100">
         </a>
       </p>
       <p align="center"><a href="https://stevemoretz.github.io/">Portfolio & Resume Website</a></p>
@@ -14,7 +14,7 @@
     <td>
       <p align="center">
         <a href="https://www.youtube.com/watch?v=eGmFrYUMJv4">
-          <img src="https://media.licdn.com/dms/image/sync/D4E27AQHVbv9HhPIUVg/articleshare-shrink_800/0/1684434304479?e=1685264400&v=beta&t=vmGaMz3uvG0AXieAwRxWcjtBPxz01LcGwsn0CB3z664" alt="Video Portfolio & Resume" height="100">
+          <img src="https://media.licdn.com/dms/image/D4E2DAQF_lxmAZ67KJA/profile-treasury-image-shrink_800_800/0/1684673929492?e=1686438000&v=beta&t=AfsSdKhpsiqPBwyrRpkLFj_1WddUVSNHIwgyNVzTUVg" alt="Video Portfolio & Resume" height="100">
         </a>
       </p>
       <p align="center"><a href="https://www.youtube.com/watch?v=5lgHLIvFzHo">Video Portfolio & Resume</a></p>
